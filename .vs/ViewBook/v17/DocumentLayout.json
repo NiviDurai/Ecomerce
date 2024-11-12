@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|c:\\users\\irisuser\\documents\\github\\ecomerce\\viewbook\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|c:\\users\\irisuser\\documents\\github\\ecomerce\\viewbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\viewbook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\viewbook\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\viewbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\viewbook\\viebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\viebooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\viewbook\\viebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDF8BAA9-3CC3-4DED-8E42-DBDB37C1E000}|ViewBook\\ViewBook.csproj|solutionrelative:viewbook\\viebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "ViewBook\\Models\\AccountViewModels.cs",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "ViewBook\\Models\\AccountViewModels.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:20:54.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "ViewBook\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "ViewBook\\Controllers\\ManageController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:09:48.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBook\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBook\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:09:45.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ViewBook\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ViewBook\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T09:09:43.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Web.config",
+              "RelativeDocumentMoniker": "ViewBook\\Web.config",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\Web.config",
+              "RelativeToolTip": "ViewBook\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T12:09:52.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "viebooks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\viebooks.aspx.cs",
+              "RelativeDocumentMoniker": "ViewBook\\viebooks.aspx.cs",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\viebooks.aspx.cs",
+              "RelativeToolTip": "ViewBook\\viebooks.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:17:59.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "viebooks.aspx",
+              "DocumentMoniker": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\viebooks.aspx",
+              "RelativeDocumentMoniker": "ViewBook\\viebooks.aspx",
+              "ToolTip": "C:\\Users\\irisuser\\Documents\\GitHub\\Ecomerce\\ViewBook\\viebooks.aspx",
+              "RelativeToolTip": "ViewBook\\viebooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-08T10:41:51.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
