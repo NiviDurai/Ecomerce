@@ -42,7 +42,7 @@ namespace ViewBook.Controllers
         {
             get
             {
-                return _userManager ?? HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
+                return _userManager ?? 
             }
             private set
             {
