@@ -21,6 +21,7 @@ namespace ViewBook.Controllers
 
         public MeController()
         {
+        Console.WriteLine();
         }
 
         public MeController(ApplicationUserManager userManager)
