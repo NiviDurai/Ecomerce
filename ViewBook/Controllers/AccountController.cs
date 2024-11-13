@@ -18,7 +18,7 @@ namespace ViewBook.Controllers
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
 
-        public AccountController()
+       // public AccountController()
         {
         }
 
