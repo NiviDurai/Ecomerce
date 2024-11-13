@@ -41,10 +41,10 @@ namespace ViewBook.Controllers
         }
 
         // GET api/Me
-        public GetViewModel Get()
+        /*public GetViewModel Get()
         {
             var user = UserManager.FindById(User.Identity.GetUserId());
             return new GetViewModel() { Hometown = user.Hometown };
         }
-    }
+    }*/
 }
