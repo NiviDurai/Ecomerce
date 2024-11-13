@@ -18,6 +18,7 @@ namespace ViewBook.Controllers
 
         public ManageController()
         {
+            Console.WriteLine("I am nivi");
         }
 
         public ManageController(ApplicationUserManager userManager, ApplicationSignInManager signInManager)
