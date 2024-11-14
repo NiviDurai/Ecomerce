@@ -10,7 +10,7 @@ namespace ViewBook.Controllers
     {
         public ActionResult Index()
         {
-            Console.WriteLine("my name is ");
+            Console.WriteLine("my name is nivetha ");
             return View();
         }
     }
